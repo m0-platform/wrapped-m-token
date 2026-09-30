@@ -1,0 +1,4 @@
+# Reviewed false alarms. Each line is file:rule:start-line.
+# A new secret on a different line still fails the scan.
+test/integration/vendor/morpho-blue/MorphoTestBase.sol:evm-32-byte-hex:28
+test/integration/Protocol.t.sol:evm-32-byte-hex:562
