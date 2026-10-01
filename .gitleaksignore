@@ -2,3 +2,6 @@
 # A new secret on a different line still fails the scan.
 test/integration/vendor/morpho-blue/MorphoTestBase.sol:evm-32-byte-hex:28
 test/integration/Protocol.t.sol:evm-32-byte-hex:562
+src/WrappedMToken.sol:generic-api-key:64
+test/integration/redistributors/morpho/Distributor.t.sol:evm-32-byte-hex:25
+test/integration/vendor/morpho-blue/MorphoTestBase.sol:evm-32-byte-hex:31
